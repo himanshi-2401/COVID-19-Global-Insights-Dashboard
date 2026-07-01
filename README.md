@@ -32,7 +32,7 @@ COVID-19 dataset from Kaggle.
 
 ## Dashboard Preview
 
-
+(Covid-19_Dashboard.jpeg)
 
 ## Author
 Himanshi Goyal
