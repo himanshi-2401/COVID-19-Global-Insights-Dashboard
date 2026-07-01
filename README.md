@@ -1,2 +1,38 @@
-# COVID-19-Global-Insights-Dashboard
-An interactive Power BI dashboard for analyzing global COVID-19 trends, cases, deaths, recoveries, and country-wise insights.
+# COVID-19 Global Insights Dashboard
+
+## Project Overview
+This project analyzes global COVID-19 data using Power BI and provides insights into:
+
+- Total Cases
+- Total Deaths
+- Total Recovered
+- Total Active Cases
+- Confirmed Cases Trend
+- Death Trend
+- Recovery Trend
+- Global COVID-19 Distribution
+- Top 10 Countries by Confirmed Cases
+
+## Tools Used
+- Power BI
+- Power Query
+- DAX
+- Data Visualization
+
+## Dashboard Features
+- Interactive Country Slicer
+- Date Range Slicer
+- KPI Cards
+- Trend Analysis
+- Global Map Visualization
+- Top Countries Analysis
+
+## Dataset
+COVID-19 dataset from Kaggle.
+
+## Dashboard Preview
+
+
+
+## Author
+Himanshi Goyal
